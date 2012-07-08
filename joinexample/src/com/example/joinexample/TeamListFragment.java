@@ -180,7 +180,7 @@ public class TeamListFragment extends ListFragment implements LoaderManager.Load
 		}
 
 		for (int i = 0; i < sportLength; i++) {
-			projection[sportLength + i] = sportProjection[i];
+			projection[teamLength + i] = sportProjection[i];
 		}
 		
 		return projection;
