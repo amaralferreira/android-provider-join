@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joinexample</string>
+    <string name="teamSportLabel">Sport: </string>
+    <string name="teamNameLabel">Name: </string>
+    <string name="teamPeriodTypeLabel">Period: </string>
+</resources>
