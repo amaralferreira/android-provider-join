@@ -1,0 +1,1 @@
+Simple example of an Android app using a join in its content provider. Fragments are used with the android.support.v4.app package for backwards compatibility.
